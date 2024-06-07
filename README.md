@@ -3,11 +3,9 @@
 This project performs depth estimation on an input image using the MiDaS (Monocular Depth Estimation) model from Intel's Intelligent Systems Lab. The MiDaS model provides state-of-the-art performance for depth estimation tasks, and this implementation allows you to use either "DPT_Large", "DPT_Hybrid", or "MiDaS_small" models based on your accuracy and performance needs.
 
 ## Features
-
--Load and preprocess images.
--Perform depth estimation using the MiDaS model.
--Display the input image and its corresponding depth map.
--Save the depth map with a modified file name.
+- Load and preprocess images.
+- Perform depth estimation using the MiDaS model.
+- Display the input image and its corresponding depth map.
 
 ## Prerequisites
 
@@ -66,10 +64,11 @@ jupyter notebook depth_estimation.ipynb
 ## Notes
 
 Ensure that the input/ directory contains the image you want to process.
+
 The output depth map will be saved in the output/ directory with the filename format your_image_Depth_Map.jpg.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Lmao no license
 
 ## Acknowledgements
 Intel Intelligent Systems Lab for the MiDaS model.
