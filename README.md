@@ -62,10 +62,8 @@ jupyter notebook depth_estimation.ipynb
 4) Follow the steps in the Jupyter Notebook to load the image, perform depth estimation, display the results, and save the depth map.
 
 ## Notes
-
-Ensure that the input/ directory contains the image you want to process.
-
-The output depth map will be saved in the output/ directory with the filename format your_image_Depth_Map.jpg.
+- Ensure that the input/ directory contains the image you want to process.
+- The output depth map will be saved in the output/ directory with the filename format your_image_Depth_Map.jpg.
 
 ## License
 Lmao no license
